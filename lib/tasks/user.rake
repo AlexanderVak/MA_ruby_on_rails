@@ -16,7 +16,7 @@ namespace :user do
     headers = %w[first_name, last_name, personal_data, password, email, birthday]
 
     CSV.open('exported_users.csv', 'w', write_headers: true, headers: headers) do |writer|
-      users.each { |user| writer << [user.first_name, user.last_name, user.username, user.password, user.email, user.birthday] }
+      users.each { |user| writer << [user.first_name, user.last_name, user.personal_data, user.password, user.email, user.birthday] }
     end
   end
 

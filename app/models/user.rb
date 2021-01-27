@@ -7,7 +7,7 @@ class User < ApplicationRecord
 
   scope :adults, -> { where('birthday <= ?', 18.years.from_now) }
 
-  validates :username, presence: true, uniqueness: true
+  validates :personal_data, presence: true, uniqueness: true
   validates :email, presence: true, format: { with: VALID_EMAIL }, uniqueness: true
   validates :password, presence: true, length: { minimum: 8, maximum: 15 }
 
