@@ -1,0 +1,4 @@
+<h1><%= @post.title %></h1>
+<p>Published at <%= @post.published_at.strftime('%b, %d %Y') %></p>
+<%= social_share_button_tag(@post.title) %>
+<p><% @post.body %>></p>

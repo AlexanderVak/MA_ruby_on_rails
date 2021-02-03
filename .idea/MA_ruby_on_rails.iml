@@ -75,7 +75,6 @@
     <orderEntry type="library" scope="PROVIDED" name="racc (v1.5.2, RVM: ruby-2.7.0 [MA_ruby_on_rails]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack (v2.2.3, RVM: ruby-2.7.0 [MA_ruby_on_rails]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack-mini-profiler (v2.3.0, RVM: ruby-2.7.0 [MA_ruby_on_rails]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rack-proxy (v0.6.5, RVM: ruby-2.7.0 [MA_ruby_on_rails]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack-test (v1.1.0, RVM: ruby-2.7.0 [MA_ruby_on_rails]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rails (v6.1.1, RVM: ruby-2.7.0 [MA_ruby_on_rails]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rails-dom-testing (v2.0.3, RVM: ruby-2.7.0 [MA_ruby_on_rails]) [gem]" level="application" />
@@ -90,7 +89,6 @@
     <orderEntry type="library" scope="PROVIDED" name="sassc (v2.4.0, RVM: ruby-2.7.0 [MA_ruby_on_rails]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sassc-rails (v2.1.2, RVM: ruby-2.7.0 [MA_ruby_on_rails]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="selenium-webdriver (v3.142.7, RVM: ruby-2.7.0 [MA_ruby_on_rails]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="semantic_range (v2.3.1, RVM: ruby-2.7.0 [MA_ruby_on_rails]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="social-share-button (v1.2.3, RVM: ruby-2.7.0 [MA_ruby_on_rails]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="spring (v2.1.1, RVM: ruby-2.7.0 [MA_ruby_on_rails]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sprockets (v4.0.2, RVM: ruby-2.7.0 [MA_ruby_on_rails]) [gem]" level="application" />
@@ -102,7 +100,6 @@
     <orderEntry type="library" scope="PROVIDED" name="tzinfo (v2.0.4, RVM: ruby-2.7.0 [MA_ruby_on_rails]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="web-console (v4.1.0, RVM: ruby-2.7.0 [MA_ruby_on_rails]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="webdrivers (v4.5.0, RVM: ruby-2.7.0 [MA_ruby_on_rails]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="webpacker (v5.2.1, RVM: ruby-2.7.0 [MA_ruby_on_rails]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="websocket-driver (v0.7.3, RVM: ruby-2.7.0 [MA_ruby_on_rails]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="websocket-extensions (v0.1.5, RVM: ruby-2.7.0 [MA_ruby_on_rails]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="xpath (v3.2.0, RVM: ruby-2.7.0 [MA_ruby_on_rails]) [gem]" level="application" />
