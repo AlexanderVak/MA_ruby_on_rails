@@ -14,6 +14,10 @@ gem 'sass-rails', '>= 5'
 
 gem 'sprockets', '~> 4'
 
+gem 'grape'
+
+gem 'grape-entity'
+
 gem 'sprockets-rails', :require => 'sprockets/railtie'
 
 # Turbolinks makes navigating your web application faster. Read more: https://github.com/turbolinks/turbolinks
