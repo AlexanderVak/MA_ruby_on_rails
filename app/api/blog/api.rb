@@ -1,6 +1,5 @@
-class Blog::API < Grape::API
-  format :json
-  prefix :api
-
-  mount Blog::Posts
+module Blog
+  class API < Grape::API
+    mount Blog::Posts
+  end
 end
